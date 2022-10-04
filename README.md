@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkbarShirinzade
-- 👀 I’m interested in Artificial Interesting, Machine Learning
+- 👀 I’m interested in Artificial Interesting, Machine Learning, C#, Application Development
 - 🌱 I’m currently learning Python, C#, Sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
