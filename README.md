@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EkberAli
+- 👋 Hi, I’m @AkbarShirinzade
 - 👀 I’m interested in Artificial Interesting, Machine Learning
 - 🌱 I’m currently learning Python, C#, Sql
 - 💞️ I’m looking to collaborate on ...
